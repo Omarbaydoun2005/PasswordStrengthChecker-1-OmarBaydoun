@@ -34,7 +34,7 @@ The number of variety criteria met determines the final classification:
 ## Usage
 
 ```bash
-python3 Internship_Project_1.py
+python3 Password_Checker.py
 ```
 
 You'll be prompted to enter a password, and the script will print its strength classification.
